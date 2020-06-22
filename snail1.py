@@ -26,6 +26,3 @@ def snail_List(b,a,number,step,size):
 snail_List(b,a,number,step,size)
 for b in range(size):
     print(arr[b])
-    
-
-
